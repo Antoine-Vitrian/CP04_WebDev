@@ -11,7 +11,8 @@ Aplicação simples de lista de tarefas para demonstrar conceitos básicos de Re
 - JavaScript
 
 ## Como executar localmente
-1. Clone o repositório  
-2. Rode `npm install` para instalar dependências  
-3. Rode `npm run dev` para iniciar o servidor de desenvolvimento  
+1. Clone o repositório
+2. Entre na pasta lista-tarefas-react  
+3. Rode `npm install` para instalar dependências  
+4. Rode `npm run dev` para iniciar o servidor de desenvolvimento  
 
